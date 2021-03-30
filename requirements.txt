@@ -1,6 +1,6 @@
 asgiref==3.2.7
 confusable-homoglyphs==3.2.0
-Django==3.0.5
+Django==3.0.12
 django-registration==3.1
 djangorestframework==3.11.0
 pytz==2019.3
